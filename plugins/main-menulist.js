@@ -246,7 +246,7 @@ key: {
 						"jpegThumbnail": fs.readFileSync('./media/menuh1.jpg') //Gambarnye
 					},
 					"title": "⫰⫯ 𝐇𝐲𝐮𝐮𝐫𝐚𝐁𝐨𝐭𝐳 ⫯⫰ ",
-					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕 𝑯𝒚𝒖𝒖𝒓𝒂 𝑫𝒊 𝑩𝒂𝒘𝒂𝒉", 
+					"description": "𝑪𝒆𝒌 𝑳𝒊𝒔𝒕", 
 					"retailerId": "Ghost",
 					"productImageCount": 1
 				},
@@ -516,7 +516,7 @@ return body.replace(/%cmd/g, menu.prefix ? help : '%p' + help)
       level, limit, money, name, weton, week, date, dateIslamic, time, totalreg, rtotalreg, role,
       readmore: readMore
     }
-    let bcbg = `${pickRandom(['https://telegra.ph/file/bca700eefeeed8f2cb054.jpg', 'https://telegra.ph/file/ec9831cc3b7001690d6dd.jpg','https://telegra.ph/file/177f7054ebddc6d1f8375.jpg','https://telegra.ph/file/90d4254ae53b4d268b2b9.jpg','https://telegra.ph/file/a6e4013afa98e283ee6a7.jpg','https://telegra.ph/file/2cf9cf86466d9fad58e52.jpg','https://telegra.ph/file/f62c45fb2e087187f065e.jpg','https://telegra.ph/file/fec157267ed3cf69021e1.jpg','https://telegra.ph/file/419672df2fb86a057cb26.jpg'])}`
+    let bcbg = `${pickRandom(['https://telegra.ph/file/31388d17cf61df668c467.jpg', 'https://telegra.ph/file/31388d17cf61df668c467.jpg','https://telegra.ph/file/a988d082a72dbbab3e0d4.jpg','https://telegra.ph/file/0b76ad5fe3455f78af163.jpg','https://telegra.ph/file/dc4c5eb9316d097507f19.jpg','https://telegra.ph/file/dc4c5eb9316d097507f19.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg'])}`
 //━━━━━━━━[ SETTINGS MENU ]━━━━━━━━//
 const anu = `
 ❦❧ ━━──┈┈ ❲ ${global.namebot} ❳

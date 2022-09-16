@@ -34,12 +34,12 @@ let name = conn.getName(m.sender)
     let muptime = clockString(_muptime)
     let uptime = clockString(_uptime)
     let waktuwib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-let bcbg = `${pickRandom(['https://telegra.ph/file/bca700eefeeed8f2cb054.jpg', 'https://telegra.ph/file/ec9831cc3b7001690d6dd.jpg','https://telegra.ph/file/177f7054ebddc6d1f8375.jpg','https://telegra.ph/file/90d4254ae53b4d268b2b9.jpg','https://telegra.ph/file/a6e4013afa98e283ee6a7.jpg','https://telegra.ph/file/2cf9cf86466d9fad58e52.jpg','https://telegra.ph/file/f62c45fb2e087187f065e.jpg','https://telegra.ph/file/fec157267ed3cf69021e1.jpg','https://telegra.ph/file/419672df2fb86a057cb26.jpg'])}`
+let bcbg = `${pickRandom(['https://telegra.ph/file/31388d17cf61df668c467.jpg', 'https://telegra.ph/file/31388d17cf61df668c467.jpg','https://telegra.ph/file/a988d082a72dbbab3e0d4.jpg','https://telegra.ph/file/0b76ad5fe3455f78af163.jpg','https://telegra.ph/file/dc4c5eb9316d097507f19.jpg','https://telegra.ph/file/dc4c5eb9316d097507f19.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg','https://telegra.ph/file/d2420d53ba1ca2b6ba658.jpg'])}`
 
        await conn.delay(1500)
 const anu = `${ucapan()} ${name}`
 const footer = `
-𝙷𝚊𝚕𝚘 ${name} 𝚂𝚊𝚢𝚊 Yushino Botz Multi Device,𝚂𝚊𝚢𝚊 𝙳𝚒 𝙱𝚞𝚊𝚝 𝙾𝚕𝚎𝚑 𝙰𝚕𝚍𝚒,𝙿𝚎𝚖𝚋𝚞𝚊𝚝𝚊𝚗 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙱𝚘𝚝 𝙸𝚗𝚒 𝙼𝚞𝚕𝚊𝚒 𝙳𝚊𝚛𝚒 𝚃𝚊𝚗𝚐𝚐𝚊𝚕 22 𝙰𝚐𝚞𝚜𝚝𝚞𝚜 2022,𝚃𝚎𝚛𝚒𝚖𝚊𝚑 𝙺𝚊𝚜𝚒𝚑 𝚈𝚊𝚗𝚐 𝚃𝚎𝚕𝚊𝚑 𝙼𝚎𝚖𝚋𝚊𝚗𝚝𝚞 𝚂𝚊𝚢𝚊 𝚂𝚎𝚙𝚎𝚗𝚞𝚑 𝙷𝚊𝚝𝚒 𝙳𝚊𝚕𝚊𝚖 𝙼𝚎𝚖𝚋𝚞𝚊𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚂𝚌𝚛𝚒𝚙𝚝 𝙸𝚗𝚒\n
+𝙷𝚊𝚕𝚘 ${name} 𝚂𝚊𝚢𝚊 Yann Botz Multi Device.𝙿𝚎𝚖𝚋𝚞𝚊𝚝𝚊𝚗 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙱𝚘𝚝 𝙸𝚗𝚒 𝙼𝚞𝚕𝚊𝚒 𝙳𝚊𝚛𝚒 𝚃𝚊𝚗𝚐𝚐𝚊𝚕 22 𝙰𝚐𝚞𝚜𝚝𝚞𝚜 2022,𝚃𝚎𝚛𝚒𝚖𝚊𝚑 𝙺𝚊𝚜𝚒𝚑 𝚈𝚊𝚗𝚐 𝚃𝚎𝚕𝚊𝚑 𝙼𝚎𝚖𝚋𝚊𝚗𝚝𝚞 𝚂𝚊𝚢𝚊 𝚂𝚎𝚙𝚎𝚗𝚞𝚑 𝙷𝚊𝚝𝚒 𝙳𝚊𝚕𝚊𝚖 𝙼𝚎𝚖𝚋𝚞𝚊𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝚂𝚌𝚛𝚒𝚙𝚝 𝙸𝚗𝚒\n
 ⫰⫯⫰ 𝐃𝐚𝐭𝐞 𝐈𝐬𝐥𝐚𝐦 : ${dateIslamic}
 ⫰⫯⫰ 𝐃𝐚𝐭𝐞 : ${date}
 ⫰⫯⫰ 𝐔𝐩𝐭𝐢𝐦𝐞 : ${uptime}
